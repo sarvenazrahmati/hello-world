@@ -1,2 +1,2 @@
 # hello-world
-its just my very basic codes
+these are simple codes and common projects for learning Java.
